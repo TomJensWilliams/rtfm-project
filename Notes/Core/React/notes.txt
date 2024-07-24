@@ -1,0 +1,20 @@
+https://react.dev/learn
+
+Quick Start
+    ✓ Tutorial: Tic-Tac-Toe
+    Thinking In React
+
+Installation
+    Start A New React Project
+    Add React To An Existing Project
+    Editor Setup
+    Using TypeScript
+    React Developer Tools
+    React Compiler
+Describing The UI
+
+Adding Interactivity
+
+Managing State
+
+Escape Hatches

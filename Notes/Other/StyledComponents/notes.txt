@@ -1,0 +1,45 @@
+https://styled-components.com/docs
+
+Basics
+    ✓ Motivation
+    ✓ Installation
+    ✓ Getting Started
+    ✓ Adapting Based On Props
+    ✓ Extending Styles
+    ✓ Styling Any Component
+    ✓ Passed Props
+    ✓ Coming From CSS
+    ✓ Attatching Additional Props
+    Animations
+    React Native
+
+Advanced
+    Theming
+    Refs
+    Security
+    Existing CSS
+    Tagged Template Literals
+    Server Side Rendering
+    Refering To Other Components
+    Stlye Objects
+
+API Reference
+    Primary
+    Helpers
+    Test Utilities
+    Supported CSS
+    TypeScript
+    Previous APIs
+
+Tooling
+    Babel Plugin
+    SWC Plugin
+    Babel Macro
+    TypeScript Plugin
+    Jest Integration
+    Styleint
+    Styled Theming
+    Syntax Highlighting
+
+FAQs
+    ...
